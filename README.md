@@ -22,7 +22,7 @@
 
   <p align="center">
 
-<a href="#"><img title="CD-Kolla" src="https://img.shields.io/badge/Cd-kolla-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CD-Kolla" src="https://img.shields.io/badge/Cdkolla-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
